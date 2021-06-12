@@ -32,7 +32,7 @@ public class GoFoSystem {
     ArrayList<Booking> bookings = new ArrayList<Booking>();
     
     /**
-     * this method is a special method because it takes a booking name and return a player
+     * this method is a special method as it takes a booking name and return a player
      * @param bookingName represent booking name
      * @return player
      */
