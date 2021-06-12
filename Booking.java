@@ -16,7 +16,7 @@ package gofo;
  * bookedHours: represents how many hours the player wants to book
  * totalPay: represents the total cost
  * status : Playground's Active or not
- * bookingApplicant : represents the booking owner
+ * bookingApplicant : represent booking owner
  */
 public class Booking {
     
