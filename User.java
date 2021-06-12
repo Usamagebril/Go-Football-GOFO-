@@ -13,7 +13,7 @@ package gofo;
  * password : represents the User password
  * Email : represents the User Mail
  * phone : represents the number phone of the User
- * location: represents User Location
+ * location: represent User Location
  *
  */
 abstract class User {
