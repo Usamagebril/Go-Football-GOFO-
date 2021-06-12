@@ -14,7 +14,7 @@ import java.util.ArrayList;
  * @since 6/11/2021
  * and the class has three attributes
  *
- * teamName: represents the Team's name
+ * teamName: represent the Team's name
  * teamNumber : represents the Number of players in each team
  * Player : This arraylist store player's team in it
  */
