@@ -8,7 +8,7 @@ package gofo;
 import java.util.ArrayList;
 
 /**
- * The Player Class is the class that represent the players on the system
+ * The Player Class is the class that represents the players on the system
  * @author Mohammed Mashhoot Mohammed ( ID : 20190478, Group : S22)
  * @version 1.0
  * @since 6/11/2021
