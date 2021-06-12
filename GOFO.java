@@ -8,7 +8,7 @@ package gofo;
 import java.util.Scanner;
 
 /**
- * this is main class to run the project and use every class has been created
+ * this is main class to run the project and use every class has been created and view user tabs 
  * @author Mohammed Mashhoot Mohammed ( ID : 20190478, Group : S22)
  * @author Usama Mohamed Gebril ( ID : 20190087, Group : S22)
  * @author Andrew Mamdouh Fayez ( ID : 20190113, Group : S21)
