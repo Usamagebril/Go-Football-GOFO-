@@ -14,7 +14,6 @@ import java.util.Scanner;
  * @author Andrew Mamdouh Fayez ( ID : 20190113, Group : S21)
  * @version 1.0
  * @since 6/11/2021
- * Name of the project Go Football
  */
 public class GOFO {
 
