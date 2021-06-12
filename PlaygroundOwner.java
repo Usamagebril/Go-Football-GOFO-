@@ -16,7 +16,7 @@ import java.util.ArrayList;
  *
  * playground: represents list of playgrounds of the playground owner
  * bookings : represents list of books of the playgrounds of the playground owner
- * ewallet : represent Playground Owner's E-Wallet
+ * ewallet : represent Playground Owner E-Wallet
  */
 public class PlaygroundOwner extends User{
     
