@@ -12,7 +12,7 @@ package gofo;
  * size: represents how many players will play in the playground
  * availableHours : Playground's Available Hours
  * pricePerHour : Playground's Price Per Hour
- * cancellationPeriod : represents the available period of time that the user could cancel the book
+ * cancellationPeriod : represent the available period of time that the user could cancel the book
  */
 public class Playground {
     private String name ;
