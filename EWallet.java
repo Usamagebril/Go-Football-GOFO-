@@ -14,7 +14,7 @@ package gofo;
  *
  * eWalletNumber: represents the E-Wallet Number
  * password : represents the E-Wallet password
- * balance : represent the E-Wallet balance
+ * balance : represents the E-Wallet balance
  */
 public class EWallet {
     private int eWalletNumber ;
